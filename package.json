@@ -1,0 +1,12 @@
+{
+  "name": "indecision-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ultrasoft011/indecision-app.git",
+  "author": "ultrasoft011 <ultrasoft.011@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "1.5.2",
+    "babel-preset-react": "6.24.1"
+  }
+}
